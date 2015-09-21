@@ -7,7 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Yvanne & Olivier The Item
+ * @author Yvanne & Olivier 
+ * The Item
  */
 public class Item implements IModel {
 
