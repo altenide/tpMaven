@@ -5,6 +5,10 @@ public interface IModel {
 	/**
 	 * add a
 	 */
-	public void addItem();
+	public void addItem(Poste poste);
+	
+	public void delItem(Poste poste);
+	
+	public String getTitle();
 
 }
